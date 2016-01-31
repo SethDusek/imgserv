@@ -1,0 +1,11 @@
+[package]
+authors = ["SethDusek <shibe@openmailbox.org>"]
+name = "imgserv"
+version = "0.1.0"
+
+[dependencies]
+ascii = "0.5"
+clippy = "0.0.37"
+flate2 = "0.2.12"
+lazy_static = "*"
+tiny_http = "*"
